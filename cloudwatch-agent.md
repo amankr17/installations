@@ -1,4 +1,4 @@
-#cloudwatch agent installation commands
+# cloudwatch agent installation commands
 
 ## attach iam role for ec2 having permissions: ssmaccess, CloudWatchAgentServerPolicy
 
